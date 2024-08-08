@@ -1,8 +1,19 @@
-# React + Vite
+# WorldWise
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This Web App is about keeps track of the adventures.
+This is implementing some react hooks:
 
-Currently, two official plugins are available:
+- useReducer
+- useContext
+  And some dependency:
+- react-router-dom
+- react-leaflet
+- react-datepicker
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Home
+
+![image](./public/home.png)
+
+## App
+
+![image](./public/app.png)
